@@ -1,0 +1,1 @@
+print(float(input('a: ')) * float(input('h: ')) / 2)
